@@ -1,0 +1,25 @@
+{
+  "name": "hw5-jdwaffles",
+  "version": "1.0.0",
+  "description": "Josh Davila\r HW2\r COT 4930 - Full Stack Web Development\r Z23628992",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COT4930-Spring-2022-Fullstack-Web/hw5-JDWaffles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/COT4930-Spring-2022-Fullstack-Web/hw5-JDWaffles/issues"
+  },
+  "homepage": "https://github.com/COT4930-Spring-2022-Fullstack-Web/hw5-JDWaffles#readme",
+  "dependencies": {
+    "mongodb": "^4.4.1"
+  }
+}
